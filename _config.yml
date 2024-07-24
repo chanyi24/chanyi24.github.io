@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jang Junpil"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "KHUDA 화이팅"
+  location         : "Kyunghee University"
+  email            : "Jang17107@khu.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
